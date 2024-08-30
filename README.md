@@ -1,0 +1,2 @@
+# Store-Sales-Forecasting
+This repository contains Python code for time series forecasting and sales prediction using various machine learning models. It includes data preprocessing, feature engineering, model selection with hyperparameter tuning (XGBoost, LightGBM, ARIMA), and evaluation metrics such as RMSLE. The project integrates techniques like lag features, and rolling means, and handles missing values, providing a comprehensive approach to predictive modeling.
